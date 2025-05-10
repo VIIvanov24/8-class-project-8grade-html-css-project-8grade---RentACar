@@ -7,10 +7,9 @@
 <br>
  
 <p align = "center">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TDTanev21/Chemistry-and-biology-project?style=flat-square">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TDTanev21/Chemistry-and-biology-project?style=flat-square">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TDTanev21/Chemistry-and-biology-project?style=flat-square">
-<img src="https://img.shields.io/github/languages/count/TDTanev21/Chemistry-and-biology-project?style=flat-square">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/">
 </p> 
  
 ## 📋 Description
@@ -33,8 +32,8 @@ Your mission? Navigate puzzles and road-savvy scenarios to unlock the lost fleet
 ## 📝 Documents
 <h4>Documents and presenting</h4>
 <ul>
-<li><a href="Chemistry-and-biology-project/Documentation/Cherries_Documentation.docx">Documentation</a></li>
-<li><a href="Chemistry-and-biology-project/Documentation/Cherries_Presentation (1).pptx">Presentation</a></li>
+<li><a href="                        ">Documentation</a></li>
+<li><a href="                        ">Presentation</a></li>
 </ul> 
 
  
@@ -44,14 +43,14 @@ Your mission? Navigate puzzles and road-savvy scenarios to unlock the lost fleet
 You can download our project by using the green "Code" button.
  
 Or by pasting the following code in your CMD:
-git clone https://github.com/SDTanev24/Road-Rush-Renatls.git
+git clone https://github.com/VIIvanov24/8-class-project-8grade-html-css-project-8grade---RentACar.git
 ```
  
 ## ⚙ Website Access
  
 *You can access our website by pasting this link into your browser.*
 ```
-https://github.com/SDTanev24/Road-Rush-Renatls.git
+https://github.com/VIIvanov24/8-class-project-8grade-html-css-project-8grade---RentACar.git
 ```
  
 ## 👨🏻‍💻 Team Members
@@ -63,8 +62,3 @@ https://github.com/SDTanev24/Road-Rush-Renatls.git
 | Kristiyan Georgirev | *Designer*  | 🟩 8V |
 | Vilian Ivanov |  *CSS Developer*  | 🟦 8G |
  
- 
-## 🎮 ECO Pirates
- 
-<img height="600" width="1050" src = "Chemistry-and-biology-project/images/Start _Menu.png"/>
-<img height="600" width="1050" src = "Chemistry-and-biology-project/images/Rules_Menu.png"/>
